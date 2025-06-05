@@ -70,7 +70,7 @@ const showWinner=(winner) =>{
 
 const checkWinner =() => {
     for(pattern of winPatterns){
-        /*accessing innertext(x/O) value*/
+        
         let pos1=boxes[pattern[0]].innerText;
         let pos2=boxes[pattern[1]].innerText;
         let pos3=boxes[pattern[2]].innerText;
@@ -84,7 +84,7 @@ const checkWinner =() => {
         }
 
     }
-    /*check for draw*/
+    
     let allFilled=true;
     boxes.forEach(box =>{
         if(box.innerText===""){
