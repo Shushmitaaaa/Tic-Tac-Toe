@@ -6,12 +6,12 @@ This is a classic Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScri
 
 ## ✨ Features
 
-- 👥 Two-player game (O and X)
-- 🎨 Stylish green-themed UI
-- ✅ Highlighted box colors on each move
-- 🏆 Displays winner with a pop-up
-- 🔄 Reset and New Game functionality
-- 📱 Responsive layout for all screen sizes
+-  Two-player game (O and X)
+-  Stylish green-themed UI
+-  Highlighted box colors on each move
+-  Displays winner with a pop-up
+-  Reset and New Game functionality
+-  Responsive layout for all screen sizes
 
 ## 🚀 Live Demo
 
@@ -19,9 +19,9 @@ Play the game here: [https://shushmitaaaa.github.io/Tic-Tac-Toe/](https://shushm
 
 ## 🛠️ Technologies Used
 
-- 🧾 HTML
-- 🎨 CSS
-- ⚙️ JavaScript
+-  HTML
+-  CSS
+-  JavaScript
 
 ## 🧑‍💻 Setup Instructions
 
